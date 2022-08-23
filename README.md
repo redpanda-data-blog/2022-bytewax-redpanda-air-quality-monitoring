@@ -2,7 +2,7 @@
 
 Follow this demo to learn how to do real-time anomaly detection with Redpanda and Bytewax using Timely Dataflow.
 
-Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog/) to put this demo into action. 
+Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog/air-quality-monitoring-application-redpanda-bytewax) to put this demo into action. 
 
 -------------
 
